@@ -4,7 +4,9 @@
 
 ## Link
 
-**インプレス NextPublishing  
-Nuxt3+TailwindCSS+AWS CDKでポートフォリオ制作＆公開**
-
+- **インプレス NextPublishing  
+Nuxt3+TailwindCSS+AWS CDKでポートフォリオ制作＆公開**  
 https://nextpublishing.jp/book/16384.html
+
+- **著者ホームページ**  
+https://signote.link
