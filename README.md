@@ -2,7 +2,7 @@
 
 商業版『Nuxt3+TailwindCSS+AWS CDKでポートフォリオ制作＆公開』ポートフォリオ実装コード
 
-## Link
+# Link
 
 - **インプレス NextPublishing  
 Nuxt3+TailwindCSS+AWS CDKでポートフォリオ制作＆公開**  
